@@ -1,0 +1,15 @@
+{
+  "MockERC20": [],
+  "MockLendingMarket": [],
+  "PriceOracle": [],
+  "RiskEngine": [],
+  "AllocationManager": [],
+  "StormController": [],
+  "ReserveVault": [],
+  "StrategyRouter": [],
+  "LendingStrategy": [],
+  "StableYieldStrategy": [],
+  "CollateralYieldStrategy": [],
+  "DefensiveStrategy": [],
+  "YieldGuardVault": []
+}
